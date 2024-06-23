@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+
+set(PROJECT_NAME PANTERIZA_FIREWALL)
+project(${PROJECT_NAME})
+
+set(CMAKE_MINIMUM_REQUIRED 17)
